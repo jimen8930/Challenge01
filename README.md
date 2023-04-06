@@ -1,5 +1,6 @@
 # Challenge01
 [This an example](https://github.com/jimen8930/Challenge01/edit/main/README.md)
+
 Description:
 This code needed to be refactor to ensure this website is accesible for individuals with a disabilty. As I refactor the code, I made changes to the code to allow an individual with a disability to be able have the same benefits from the website as everyone else. Here are some of the changes that were made.
 -I added to the img tag to include alt attributes to specify what each image displays so an individual who has a visual disability will know what each section of the website looks like.
