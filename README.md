@@ -11,3 +11,4 @@ I made changes to the HTML file to include the appropriatee sematic tags and HTM
 I made comments to the CSS files to explain the purpose of the code. 
 
 The purpose of refactoring a code is to improve the internal code which I did to ensure it is accessible for someone who has visual disability. THe small changes to internal code were made without altering the external behavior. 
+![Screen Shot 2023-04-06 at 4 48 06 PM](https://user-images.githubusercontent.com/128547615/230491007-a2debd7a-c77c-4901-b180-fd7a7509561b.png)
