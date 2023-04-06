@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* This below determines the background color. */
 body {
     background-color: #d9dcd6;
 }
@@ -19,11 +19,11 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* This determines the color of a section of the header. */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* This determines the measurement or distance of the CSS box, font-size, and font-family. */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* This removes any bullets or numbers. */
 .header div ul {
     list-style-type: none;
 }
-
+/* Below determines that the list will be display horizontally. */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -45,7 +45,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Below is the font size for a p tags in the document. */ 
 p {
     font-size: 16px;
 }
@@ -58,12 +58,12 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* This puts the content or element of the left side of the screen. */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* This puts the content or element of the right side of the screen. */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -85,27 +85,27 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* This class was condensed from three to one and was renamed to benefit. */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;  
 }
 
 
-
-.lead h3 {
+/* This class was condensed from three to one and was renamed to lead. */
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+/* These class were condensed from three to one and kept it's original names. */
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/* These were condensed from three to one and kept it's original names. */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,18 +115,18 @@ p {
     color: #ffffff;
 }
 
-
+/* These were condensed from three to one and kept it's original names. */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
-
+/* These were condensed from three to one and kept it's original names. */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-
+/* This determines what font-family, the size of the padding, and the footer needs to be in the center. */
 .footer {
     padding: 30px;
     clear: both;
